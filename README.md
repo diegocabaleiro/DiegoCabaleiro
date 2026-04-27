@@ -1,4 +1,9 @@
-# Olá, eu sou Diego Cabaleiro 👋
+##
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1500&color=ffff&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Diego+Cabaleiro👋;Bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+</p>
+
+##
 
 🎓 Estudante de **Matemática Licenciatura na USP**
 💻 Em formação em **Desenvolvimento Web com Python** pelo **Instituto PROA / SENAC**
@@ -47,5 +52,4 @@ Busco oportunidades para aplicar meus conhecimentos em projetos que unam **educa
   </a>
 
 </div>
-##
 
