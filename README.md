@@ -34,7 +34,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos que unam **educa
 </div>
 ##
 
-![Snake animation](https://github.com/diegocabaleiro/diegocabaleiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/diegocabaleiro/diegocabaleiro/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📫 Contato
 
