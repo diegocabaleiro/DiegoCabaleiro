@@ -32,6 +32,7 @@ Busco oportunidades para aplicar meus conhecimentos em projetos que unam **educa
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
+
 ##
 
 ![Snake animation](https://github.com/diegocabaleiro/diegocabaleiro/blob/output/github-contribution-grid-snake-dark.svg)
